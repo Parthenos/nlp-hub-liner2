@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gcube.core:common-gcore-stubs:1.2.2-4.9.0-132342">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-gcore-stubs/1.2.2-4.9.0-132342/common-gcore-stubs-1.2.2-4.9.0-132342.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-gcore-stubs/1.2.2-4.9.0-132342/common-gcore-stubs-1.2.2-4.9.0-132342-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-gcore-stubs/1.2.2-4.9.0-132342/common-gcore-stubs-1.2.2-4.9.0-132342-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

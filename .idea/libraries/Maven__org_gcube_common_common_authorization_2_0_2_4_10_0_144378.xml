@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gcube.common:common-authorization:2.0.2-4.10.0-144378">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/common/common-authorization/2.0.2-4.10.0-144378/common-authorization-2.0.2-4.10.0-144378.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/common/common-authorization/2.0.2-4.10.0-144378/common-authorization-2.0.2-4.10.0-144378-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/common/common-authorization/2.0.2-4.10.0-144378/common-authorization-2.0.2-4.10.0-144378-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

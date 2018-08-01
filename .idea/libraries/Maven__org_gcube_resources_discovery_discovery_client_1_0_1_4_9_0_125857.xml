@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gcube.resources.discovery:discovery-client:1.0.1-4.9.0-125857">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/discovery/discovery-client/1.0.1-4.9.0-125857/discovery-client-1.0.1-4.9.0-125857.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/discovery/discovery-client/1.0.1-4.9.0-125857/discovery-client-1.0.1-4.9.0-125857-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/discovery/discovery-client/1.0.1-4.9.0-125857/discovery-client-1.0.1-4.9.0-125857-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

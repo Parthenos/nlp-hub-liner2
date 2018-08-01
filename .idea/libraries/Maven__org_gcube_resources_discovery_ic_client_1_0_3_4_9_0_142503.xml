@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gcube.resources.discovery:ic-client:1.0.3-4.9.0-142503">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/discovery/ic-client/1.0.3-4.9.0-142503/ic-client-1.0.3-4.9.0-142503.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/discovery/ic-client/1.0.3-4.9.0-142503/ic-client-1.0.3-4.9.0-142503-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/discovery/ic-client/1.0.3-4.9.0-142503/ic-client-1.0.3-4.9.0-142503-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

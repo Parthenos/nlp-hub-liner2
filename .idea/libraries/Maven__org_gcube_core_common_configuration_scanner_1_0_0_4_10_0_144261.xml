@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gcube.core:common-configuration-scanner:1.0.0-4.10.0-144261">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-configuration-scanner/1.0.0-4.10.0-144261/common-configuration-scanner-1.0.0-4.10.0-144261.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-configuration-scanner/1.0.0-4.10.0-144261/common-configuration-scanner-1.0.0-4.10.0-144261-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-configuration-scanner/1.0.0-4.10.0-144261/common-configuration-scanner-1.0.0-4.10.0-144261-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

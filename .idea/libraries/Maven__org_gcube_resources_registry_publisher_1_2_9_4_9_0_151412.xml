@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gcube.resources:registry-publisher:1.2.9-4.9.0-151412">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/registry-publisher/1.2.9-4.9.0-151412/registry-publisher-1.2.9-4.9.0-151412.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/registry-publisher/1.2.9-4.9.0-151412/registry-publisher-1.2.9-4.9.0-151412-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/resources/registry-publisher/1.2.9-4.9.0-151412/registry-publisher-1.2.9-4.9.0-151412-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

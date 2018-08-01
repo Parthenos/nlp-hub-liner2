@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nlp-hub-liner2">
+    <output-path>$PROJECT_DIR$/target/</output-path>
+    <root id="archive" name="nlp-hub-liner2.war">
+      <element id="artifact" artifact-name="nlp-hub-liner2:war exploded" />
+    </root>
+  </artifact>
+</component>

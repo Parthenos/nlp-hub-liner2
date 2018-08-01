@@ -1,0 +1,38 @@
+
+[type="checkbox"]+label {
+	margin-right: 15px !important;
+}
+
+.my-textarea {
+	border: 1px solid #555;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 4px;
+	height: 100px;
+}
+
+pre {
+	padding: 5px;
+	margin: 5px;
+}
+
+.string {
+	color: green;
+}
+
+.number {
+	color: darkorange;
+}
+
+.boolean {
+	color: blue;
+}
+
+.null {
+	color: magenta;
+}
+
+.key {
+	color: red;
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gcube.core:common-scope:1.2.0-4.9.0-125717">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-scope/1.2.0-4.9.0-125717/common-scope-1.2.0-4.9.0-125717.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-scope/1.2.0-4.9.0-125717/common-scope-1.2.0-4.9.0-125717-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gcube/core/common-scope/1.2.0-4.9.0-125717/common-scope-1.2.0-4.9.0-125717-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
